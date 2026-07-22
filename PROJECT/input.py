@@ -1,0 +1,31 @@
+name = input("what is your name: ")
+print("That's okay")
+
+if len(name) <= 5:
+    print("Name is incredibly short")
+    name = input("Enter a longer name: ")
+else:
+    print("That's okay")
+
+age = int(input("How old are you: "))
+print("That's okay")
+print(f"Next year you will be {age +1} years old")
+university = input("What school do you attend: ")
+print("Nice")
+department = input("What department are you: ")
+print("That's cool")
+level = input("What level are you: ")
+print("That's cool")
+language = input("What's your favorite programming language: ")
+print("Impressive")
+
+print("\n====== STUDENT INFORMATION =====")
+print(f"Yo, {name}")
+print("Here are the credentials you just entered")
+print(f"Your name: {name}")
+print(f"Your age: {age}")
+print(f"Your university: {university}")
+print(f"Your department: {department}")
+print(f"Your level: {level}")
+print(f"Your favorite programming language: {language}")
+print("==================================")
