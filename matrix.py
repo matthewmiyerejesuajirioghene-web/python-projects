@@ -15,3 +15,4 @@ for number in numbers:
         uniques.append(number)
 numbers.insert(0, 111)
 print(uniques)
+number.real()

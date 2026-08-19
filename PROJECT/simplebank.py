@@ -1,7 +1,7 @@
 # Project: Banking system illustration
 # Author: Matthew Ajiri
 # Date: 18/07/2026
-# Description: It has an home module similar to an actual bank with varios functions that can be carried out by the bank
+# Description: It has an home module similar to an actual bank with various functions that can be carried out by the bank
 print("WELCOME TO MATTHEW BANK")
 print("    ")
 print("1. Deposit")
