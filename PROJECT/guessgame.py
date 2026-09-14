@@ -4,7 +4,11 @@
 # Description: A number guessing game where the user has 3 attempts to guess the secret number
 # program also hints if guess is too high or too low
 
-secret_number = 9
+import random
+secret_number = ['1', '4']
+
+
+# secret_number = 9
 guess_count = 0
 guess_limit = 3
 
